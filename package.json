@@ -1,0 +1,17 @@
+{
+  "name": "basic-counter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config index.js"
+  },
+  "keywords": [],
+  "author": "Alex Bakoushin <alex@bakoush.in>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "16.0.0",
+    "ethers": "5.6.5"
+  }
+}
