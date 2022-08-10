@@ -7,7 +7,7 @@ dApp sample: [basic-counter.bakoush.in](https://basic-counter.bakoush.in)
 ## Installation
 
 ```bash
-git clone https://github.com/bakoushin/poh-counter-bot.git
+git clone https://github.com/Human-Protocol/poh-counter-bot.git
 cd poh-counter-bot
 npm install
 ```
@@ -28,7 +28,7 @@ Enjoy!
 
 ## See also
 
-- [Counter dApp Example](https://github.com/bakoushin/poh-counter-example)
+- [Counter dApp Example](https://github.com/Human-Protocol/poh-counter-example)
 - [Proof-of-HUMANity on-chain: protect your smart contracts from bots](https://www.humanprotocol.org/blog/proof-of-humanity-on-chain-protect-your-smart-contracts-from-bots)
 - [Proof-of-Humanity-React](https://npmjs.com/packages/poh-react)
 - [Proof-of-Humanity hCaptcha Validator React](https://npmjs.com/package/poh-validator-hcaptcha-react)
